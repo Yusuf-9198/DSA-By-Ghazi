@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/0022-generate-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1025-divisor-game](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/1025-divisor-game) |
 ## Backtracking
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/0189-rotate-array) |
+| [1025-divisor-game](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/1025-divisor-game) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/1814-count-nice-pairs-in-an-array) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Counting
@@ -72,4 +74,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/0496-next-greater-element-i) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
