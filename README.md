@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/1288-remove-covered-intervals) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/1814-count-nice-pairs-in-an-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/0189-rotate-array) |
 | [1025-divisor-game](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/1025-divisor-game) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/1814-count-nice-pairs-in-an-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Counting
 |  |
@@ -82,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/1025-divisor-game) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
